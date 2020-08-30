@@ -1,2 +1,2 @@
 # Voice-Assistant-News-Bot
-This is a computer application that reads out the News-Headlines along with 2-3 lines of news description from the selected news-field by the User.
+This is a computer application that reads out the News-Headlines along with 2-3 lines of news description from the selected news-field by the User. The file <content.py> provides the news from the different news fields and the file <setup.py> on execution with command "python3 setup.py bdist_msi" creates the setup exe file. The file <favicon2.ico> is the icon of the application. The file <news_feeder.py> contains the main application code.
